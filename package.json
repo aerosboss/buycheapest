@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "App to make shopping at the lower price. It takes a list of desirabled products, the places (markets) where these productos are, sets the rate of the $ compared with Bs acepted by every market, and finally the app shows the suggested path to make the buy.",
   "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aerosboss/buycheapest.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
